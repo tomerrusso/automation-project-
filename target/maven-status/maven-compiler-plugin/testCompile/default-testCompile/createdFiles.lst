@@ -1,0 +1,14 @@
+tests\test_08.class
+tests\test_07.class
+tests\Base_Test.class
+tests\test_01.class
+utils\Utils.class
+tests\test_09.class
+page_Objects\Base_Page.class
+tests\test_04.class
+page_Objects\Main_Page.class
+tests\test_05.class
+page_Objects\Login_Page.class
+tests\test_03.class
+tests\test_06.class
+tests\test_02.class
